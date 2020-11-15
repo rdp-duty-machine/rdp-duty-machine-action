@@ -2,7 +2,7 @@
 
 这是一个使用issue为网路上的文章存档的github action，可以将文章转为issue进行持久保存。配置了此action的仓库，在新建issue的时候会触发抓取，文章内容会被跟评在新建的issue下方。
 
-我们同时提供了一个[示例仓库](https://github.com/rdp-duty-machine/rdp-duty-machine)做公开的备份服务，并配置了一个[在线提交入口](https://archives.duty-machine.now.sh/)供大众免登陆使用。
+我们同时提供了一个[示例仓库](https://github.com/rdp-duty-machine/rdp-duty-machine)做公开的备份服务，并配置了一个[在线提交入口](https://rdp-duty-machine-form.vercel.app/)供大众免登陆使用。
 
 ### 这个action支持什么网站？
 
